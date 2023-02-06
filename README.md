@@ -26,37 +26,38 @@ Login Admin, Silahkan gunakan User : admin dan Password : admin
 
 TAMPILAN HALAMAN WEB SISFO-SEWA-LAPANGAN-FUTSAL :
 
-<img src="tmp_tampilan/image_01.png" width="100%">
 
-<img src="tmp_tampilan/image_02.png" width="100%">
+<img src="image_01.png" width="100%">
 
-<img src="tmp_tampilan/image_03.png" width="100%">
+<img src="image_02.png" width="100%">
 
-<img src="tmp_tampilan/image_04.png" width="100%">
+<img src="image_03.png" width="100%">
 
-<img src="tmp_tampilan/image_05.png" width="100%">
+<img src="image_04.png" width="100%">
 
-<img src="tmp_tampilan/image_06.png" width="100%">
+<img src="image_05.png" width="100%">
 
-<img src="tmp_tampilan/image_07.png" width="100%">
+<img src="image_06.png" width="100%">
 
-<img src="tmp_tampilan/image_08.png" width="100%">
+<img src="image_07.png" width="100%">
 
-<img src="tmp_tampilan/image_09.png" width="100%">
+<img src="image_08.png" width="100%">
 
-<img src="tmp_tampilan/image_10.png" width="100%">
+<img src="image_09.png" width="100%">
 
-<img src="tmp_tampilan/image_11.png" width="100%">
+<img src="image_10.png" width="100%">
 
-<img src="tmp_tampilan/image_12.png" width="100%">
+<img src="image_11.png" width="100%">
 
-<img src="tmp_tampilan/image_13.png" width="100%">
+<img src="image_12.png" width="100%">
 
-<img src="tmp_tampilan/image_14.png" width="100%">
+<img src="image_13.png" width="100%">
 
-<img src="tmp_tampilan/image_15.png" width="100%">
+<img src="image_14.png" width="100%">
 
-<img src="tmp_tampilan/image_16.png" width="100%">
+<img src="image_15.png" width="100%">
+
+<img src="image_16.png" width="100%">
 
 
 
