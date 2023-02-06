@@ -9,6 +9,9 @@ Dibuat dengan Php Native Php 7.4.10 dan Mysql/MariaDB.
 Pastikan gunakan Webserver XAMPP PHP 7.4.10 .
 
 
+Untuk Printing ke Print Thermal Bluetooth, bisa install di hp android, aplikasi Raw-BT (https://play.google.com/store/apps/details?id=ru.a402d.rawbtprinter)
+
+
 ---
 
 * Untuk File .SQL bisa import dari Folder /db
